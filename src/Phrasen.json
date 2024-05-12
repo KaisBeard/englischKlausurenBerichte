@@ -1,0 +1,219 @@
+{
+  "Pronomenvarianten": {
+    "name": "!name!",
+    "personalpronomen": "!persPron!",
+    "reflexivpronomen": "!reflPron!",
+    "possesivpronomen": "!possPron!",
+    "relativpronomen": "!relaPron!",
+    "demonstrativpronomen": "!demoPron!",
+    "ein/eine": "!unbePron!"
+  },
+  "Güteklassen": [
+    { "GüteklasseBezeichnung": "Sehr Gut" },
+    { "GüteklasseBezeichnung": "Gut" },
+    { "GüteklasseBezeichnung": "Befriedigend" },
+    { "GüteklasseBezeichnung": "Ausreichend" },
+    { "GüteklasseBezeichnung": "Mangelhaft" },
+    { "GüteklasseBezeichnung": "Ungenügend" }
+  ],
+  "Textarten": [
+    {
+      "TextArtName": "Aufsatz",
+      "Kriterien": [
+        {
+          "Kriteriumsname": "Abstraktionsvermögen",
+
+          "Phrasen": [
+            {
+              "Satz": "!name! ist ein abstrakter Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "!name! ist eine abstrakte Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Er hat sehr abstrakte Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Sie hat sehr abstrakte Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+
+            {
+              "Satz": "!name! ist manchmal ein abstrakter Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "!name! ist manchmal eine abstrakte Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Er hat abstrakte Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Sie hat abstrakte Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            }
+          ]
+        },
+        {
+          "Kriteriumsname": "Sympathie",
+
+          "Phrasen": [
+            {
+              "Satz": "!name! ist ein ausgezeichneter Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "!name! ist eine ausgezeichneter Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Er hat sehr gute Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Sie hat sehr gute Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+
+            {
+              "Satz": "!name! ist ein guter Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "!name! ist eine gute Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Er hat gute Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Sie hat gute Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "TextArtName": "Zusammenfassung",
+      "Kriterien": [
+        {
+          "Kriteriumsname": "Abstraktionsvermögen",
+
+          "Phrasen": [
+            {
+              "Satz": "!name! ist ein abstrakter Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "!name! ist eine abstrakte Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Er hat sehr abstrakte Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Sie hat sehr abstrakte Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+
+            {
+              "Satz": "!name! ist manchmal ein abstrakter Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "!name! ist manchmal eine abstrakte Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Er hat abstrakte Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Sie hat abstrakte Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            }
+          ]
+        },
+        {
+          "Kriteriumsname": "Angebundenheit",
+
+          "Phrasen": [
+            {
+              "Satz": "!name! ist ein sehr angebundener Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "!name! ist eine ausgezeichneter Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Er hat sehr gute Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Sehr Gut"
+            },
+            {
+              "Satz": "Sie hat sehr gute Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Sehr Gut"
+            },
+
+            {
+              "Satz": "!name! ist ein guter Schüler.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "!name! ist eine gute Schülerin.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Er hat gute Arbeit geleistet.",
+              "Pronomen": "Männlich",
+              "Güteklasse": "Gut"
+            },
+            {
+              "Satz": "Sie hat gute Arbeit geleistet.",
+              "Pronomen": "Weiblich",
+              "Güteklasse": "Gut"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
